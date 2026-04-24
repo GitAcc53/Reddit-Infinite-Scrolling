@@ -6,4 +6,4 @@ It also works for comments.
 
 Fork from https://github.com/darkred/Userscripts/tree/master/Reddit_Infinite_Scrolling#readme
 
-Posts Loop at 500th Post is Fixed , 500th Post Limit is Not Fixed.  
+Posts Loop at 500th Post is Fixed , 500th Post Limit is Not Fixed. I am looking for someone to fix it.
